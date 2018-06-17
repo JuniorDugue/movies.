@@ -17,17 +17,21 @@
 
 html {
   font-family: Source Sans Pro, sans-serif;
+  overflow-x: hidden;
 }
 
 body {
   width: 100%;
   background: #fff;
+  overflow-x: hidden;
 }
 
 .container {
-  width: 1920px;
+  width: 100%;
   max-width: 100%;
   margin: 0 auto;
+  overflow-x: hidden;
+
 }
 
 h1 {
